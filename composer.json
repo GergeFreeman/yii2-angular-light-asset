@@ -1,0 +1,23 @@
+{
+    "name": "GergeFreeman/yii2-angular-light-asset",
+    "description": "Angular Light assets for Yii PHP framework 2.0",
+    "keywords": ["yii2", "extension", "assets", "angular", "modules"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "George Freeman",
+            "email": "y@govnokot.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "bower-asset/alight" : "~0.14.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GergeFreeman\\alight\\": ""
+        }
+    }
+}
