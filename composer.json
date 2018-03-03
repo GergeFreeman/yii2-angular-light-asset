@@ -1,5 +1,5 @@
 {
-    "name": "GergeFreeman/yii2-angular-light-asset",
+    "name": "george-freeman/yii2-angular-light-asset",
     "description": "Angular Light assets for Yii PHP framework 2.0",
     "keywords": ["yii2", "extension", "assets", "angular", "modules"],
     "type": "yii2-extension",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GergeFreeman\\alight\\": ""
+            "georgefreeman\\alight\\": ""
         }
     }
 }

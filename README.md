@@ -5,15 +5,15 @@ Angular Light AssetsBundle for Yii2 php framework
 0.0.1
 ### Installation
 ```sh
-composer require GergeFreeman/yii2-angular-light-asset dev-master
+composer require georgefreeman/yii2-angular-light-asset dev-master
 ```
 or add
 ```
-"GergeFreeman/yii2-angular-light-asset": "dev-master",
+"george-freeman/yii2-angular-light-asset": "dev-master",
 ```
 ###Usage
 
 In view
 ```
-GergeFreeman\alight\AngularLightAsset::register($this);
+georgefreeman\alight\AngularLightAsset::register($this);
 ```

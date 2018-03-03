@@ -1,6 +1,6 @@
 <?php
 
-namespace GergeFreeman\alight;
+namespace georgefreeman\alight;
 
 use yii\web\AssetBundle;
 
